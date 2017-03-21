@@ -2,8 +2,8 @@
 
 <table>
     <tr>
-        <td width="30%">
-            <img src="https://paveleremin.github.io/paveleremin.jpg">
+        <td width="25%">
+            <img width="100%" src="https://paveleremin.github.io/paveleremin.jpg">
         </td>
         <td>
             <p>
