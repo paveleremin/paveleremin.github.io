@@ -11,13 +11,13 @@
                 <br>
                 <b>Skype:</b> amster.dam
                 <br>
-                <b>Email:</b> p.ereminnn:dog:gmail.com
+                <b>Email:</b> p.ereminnn🐶gmail.com
             </p>
             <p>
                 Wanna mention that I have a lot of experience with PHP,
                 Javascript and also I have applications in the production.
-                Currently I'm in :heart: NodeJS, ReactJS and AngularJS,
-                so I have something to tell you about web development! :smile:
+                Currently I'm in ❤️ NodeJS, ReactJS and AngularJS,
+                so I have something to tell you about web development! 😄
             </p>
         </td>
     </tr>
@@ -32,7 +32,7 @@
 <table>
     <tbody>
         <tr>
-            <td align="center"><b>:information_source:<br>Description</b></td>
+            <td align="center"><b>ℹ️<br>Description</b></td>
             <td>
                 Solid Commerce helps you grow your marketplace sales
                 by providing the most integrated Software as a Service (SaaS) eCommerce operations platform
@@ -40,19 +40,19 @@
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:clock2:<br>Involvement Duration</b></td>
+            <td align="center"><b>🕑<br>Involvement Duration</b></td>
             <td>
                 December 2015 - now
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:man:<br>Role</b></td>
+            <td align="center"><b>👨<br>Role</b></td>
             <td>
                 UI architect
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:muscle:<br>Responsibilities</b></td>
+            <td align="center"><b>💪<br>Responsibilities</b></td>
             <td>
                 Development<br>
                 Tasks estimate<br>
@@ -63,13 +63,13 @@
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:family:<br>Team Size</b></td>
+            <td align="center"><b>👪<br>Team Size</b></td>
             <td>
                 30+ members
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:rocket:<br>Tools And Technologies</b></td>
+            <td align="center"><b>🚀<br>Tools And Technologies</b></td>
             <td>
                 AngularJS, ReactJS, ES6, Gulp, Webpack, SASS, Jasmine, Jest, Protractor, Git, TFS, JIRA
             </td>
