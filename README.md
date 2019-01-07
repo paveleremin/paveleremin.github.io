@@ -88,7 +88,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:clock2:<br>Involvement Duration</b></td>
+            <td align="center"><b>🕑<br>Involvement Duration</b></td>
             <td>
                 May 2015 - December 2015 (7 months)
             </td>
@@ -136,7 +136,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:clock2:<br>Involvement Duration</b></td>
+            <td align="center"><b>🕑<br>Involvement Duration</b></td>
             <td>
                 February 2015 – May 2015 (4 months)
             </td>
