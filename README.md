@@ -173,4 +173,52 @@
     </tbody>
 </table>
 
+<h3><i><a href="https://jobs.aog.jobs" target="_blank">AOG.jobs</a></i></h3>
+<table>
+    <tbody>
+        <tr>
+            <td align="center"><b>ℹ️<br>Description</b></td>
+            <td>
+                AOG is IT Outstaffing company established to provide clients with highly qualified Ukrainian IT Talents
+                ready to join your project already today.
+                Located in one of the major offshore development spots in the world,
+                they offer expertise in web, mobile and game development as well as software engineering.
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>🕑<br>Involvement Duration</b></td>
+            <td>
+                August 2014 – January 2015 (6 months)
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>👨<br>Role</b></td>
+            <td>
+                UI Team Lead
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>💪<br>Responsibilities</b></td>
+            <td>
+                Development<br>
+                Tasks estimate<br>
+                Communication with customer<br>
+                Propose technologies and architecture
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>👪<br>Team Size</b></td>
+            <td>
+                10+ members
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>🚀<br>Tools And Technologies</b></td>
+            <td>
+                Javascript, AngularJS, Elasticsearch, CSS, HTML, JIRA, SASS
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <i>And others...</i>
