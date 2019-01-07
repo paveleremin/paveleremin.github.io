@@ -81,7 +81,7 @@
 <table>
     <tbody>
         <tr>
-            <td align="center"><b>:information_source:<br>Description</b></td>
+            <td align="center"><b>ℹ️<br>Description</b></td>
             <td>
                 Development add ons(part of Salesboard system),
                 that were launched at tablets(iOS, Android) and help increase sales.
@@ -94,13 +94,13 @@
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:man:<br>Role</b></td>
+            <td align="center"><b>👨<br>Role</b></td>
             <td>
                 Javascript developer
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:muscle:<br>Responsibilities</b></td>
+            <td align="center"><b>💪<br>Responsibilities</b></td>
             <td>
                 Development<br>
                 Tasks estimate<br>
@@ -109,13 +109,13 @@
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:family:<br>Team Size</b></td>
+            <td align="center"><b>👪<br>Team Size</b></td>
             <td>
                 20+ members
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:rocket:<br>Tools And Technologies</b></td>
+            <td align="center"><b>🚀<br>Tools And Technologies</b></td>
             <td>
                 AngularJS, JQuery, CSS, HTML, Genymotion, iOS mobile,
                 Android mobile, Less, Bower, Mocha, Jasmine, Protractor, Git, Grunt
@@ -128,7 +128,7 @@
 <table>
     <tbody>
         <tr>
-            <td align="center"><b>:information_source:<br>Description</b></td>
+            <td align="center"><b>ℹ️<br>Description</b></td>
             <td>
                 Zipflip has partnered with Facebook to create a safe and simple way
                 to sell a car by connecting mutual friends and neighbors while providing
@@ -142,13 +142,13 @@
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:man:<br>Role</b></td>
+            <td align="center"><b>👨<br>Role</b></td>
             <td>
                 UI Team Lead
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:muscle:<br>Responsibilities</b></td>
+            <td align="center"><b>💪<br>Responsibilities</b></td>
             <td>
                 Development<br>
                 Tasks estimate<br>
@@ -158,13 +158,13 @@
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:family:<br>Team Size</b></td>
+            <td align="center"><b>👪<br>Team Size</b></td>
             <td>
                 10+ members
             </td>
         </tr>
         <tr>
-            <td align="center"><b>:rocket:<br>Tools And Technologies</b></td>
+            <td align="center"><b>🚀<br>Tools And Technologies</b></td>
             <td>
                 Javascript, AngularJS, JQuery, CSS, HTML, TeamCity, Nginx,
                 Apache, Yomen, Less, Bower, Mocha, Jasmine, Protractor, Git, Grunt, JIRA
