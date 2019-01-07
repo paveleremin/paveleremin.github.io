@@ -71,7 +71,7 @@
         <tr>
             <td align="center"><b>:rocket:<br>Tools And Technologies</b></td>
             <td>
-                AngularJS, ES6, Gulp, Webpack, SASS, Jasmine, Protractor, TFS, JIRA
+                AngularJS, ReactJS, ES6, Gulp, Webpack, SASS, Jasmine, Jest, Protractor, Git, TFS, JIRA
             </td>
         </tr>
     </tbody>
