@@ -102,7 +102,7 @@
     </tbody>
 </table>
 
-<h3><i><a href="http://solidcommerce.com" target="_blank">SolidCommerce.com</a></i></h3>
+<h3><i><a href="http://solidcommerce.com" target="_blank">SolidCommerce.com</a> (and <a href="http://upsefulfillment.com" target="_blank">UPS eFulfillment</a>)</i></h3>
 <table>
     <tbody>
         <tr>
