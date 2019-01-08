@@ -394,3 +394,4 @@
 </table>
 
 <i>And others...</i>
+<img src="https://mc.yandex.ru/watch/51828128">
