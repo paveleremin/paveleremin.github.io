@@ -43,6 +43,7 @@
                     <li>Technical Documentation / Architecture Reports / Proposals / SRS</li>
                     <li>JavaScript / ES6 / JSX / HTML / CSS3 / PHP</li>
                     <li>HTTP / SOAP / Web Sockets / REST / Elasticsearch</li>
+                    <li>SASS / LESS / JSS</li>
                 </ul>
             </td>
         </tr>
@@ -79,6 +80,7 @@
                     <li>Chrome Dev Tools</li>
                     <li>Console</li>
                     <li>Terminal</li>
+                    <li>Babel / Eslint / Webpack</li>
                 </ul>
             </td>
         </tr>
@@ -88,7 +90,11 @@
                 <ul>
                     <li>Cucumber</li>
                     <li>Jest</li>
-                    <li>jasmin</li>
+                    <li>Jasmine</li>
+                    <li>Chai</li>
+                    <li>Karma</li>
+                    <li>Ptotractor</li>
+                    <li>Headless Chrome / Selenium</li>
                     <li>PHPUnit</li>
                 </ul>
             </td>
