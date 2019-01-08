@@ -1,32 +1,100 @@
 <h3>Pavel Eremin</h3>
+<h4>Senior Software Engineer / Software Architect / Team Lead</h4>
 
 <table>
-    <tr>
-        <td width="25%">
-            <img width="100%" src="https://paveleremin.github.io/paveleremin.jpg">
-        </td>
-        <td>
-            <p>
-                You can contact me via:
-                <br>
-                <b>Skype:</b> amster.dam
-                <br>
-                <b>Email:</b> p.ereminnn🐶gmail.com
-            </p>
-            <p>
-                Wanna mention that I have a lot of experience with PHP,
-                Javascript and also I have applications in the production.
-                Currently I'm in ❤️ NodeJS, ReactJS and AngularJS,
-                so I have something to tell you about web development! 😄
-            </p>
-        </td>
-    </tr>
+    <tbody>
+        <tr>
+            <td width="25%">
+                <img width="100%" src="https://paveleremin.github.io/paveleremin.jpg">
+            </td>
+            <td>
+                <p>
+                    You can contact me via:
+                    <br>
+                    <b>Skype:</b> amster.dam
+                    <br>
+                    <b>Email:</b> p.ereminnn🐶gmail.com
+                </p>
+                <p>
+                    Wanna mention that I have a lot of experience with PHP,
+                    Javascript and also <b>I have applications in the production</b>.
+                    Currently I'm in ❤️ NodeJS, ReactJS and AngularJS,
+                    so I have something to tell you about web development! 😄
+                </p>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 <p>
     Has been programming since 2003, first it was a hobby,
     then grew into a serious hobby and then it became a job brings pleasure
 </p>
+
+<h3>Skills</h3>
+<table>
+    <tbody>
+        <tr>
+            <td align="center"><b>Programming Languages<br>Technologies</b></td>
+            <td>
+                <ul>
+                    <li>Software Architecture Design / UML / Design Patterns</li>
+                    <li>SaaS / SOA /RIA Research & Development</li>
+                    <li>Technical Documentation / Architecture Reports / Proposals / SRS</li>
+                    <li>JavaScript / ES6 / JSX / HTML / CSS3 / PHP</li>
+                    <li>HTTP / SOAP / Web Sockets / REST / Elasticsearch</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>Methodologies</b></td>
+            <td>
+                <ul>
+                    <li>Agile, SCRUM</li>
+                    <li>Pair Programming</li>
+                    <li>Test Driven, Feature Driven, Behavior Driven Development</li>
+                    <li>Waterfall</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>Frameworks</b></td>
+            <td>
+                <ul>
+                    <li>AnguarJS</li>
+                    <li>ReactJS</li>
+                    <li>Laravel</li>
+                    <li>jQuery</li>
+                    <li>Bootstrap</li>
+                    <li>Express</li>
+                    <li>Material-UI</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>Development<br> Tools</b></td>
+            <td>
+                <ul>
+                    <li>Webshtorm</li>
+                    <li>Chrome Dev Tools</li>
+                    <li>Console</li>
+                    <li>Terminal</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>Testing<br>Tools</b></td>
+            <td>
+                <ul>
+                    <li>Cucumber</li>
+                    <li>Jest</li>
+                    <li>jasmin</li>
+                    <li>PHPUnit</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h3><i><a href="http://solidcommerce.com" target="_blank">SolidCommerce.com</a></i></h3>
 <table>
@@ -216,6 +284,104 @@
             <td align="center"><b>🚀<br>Tools And Technologies</b></td>
             <td>
                 Javascript, AngularJS, Elasticsearch, CSS, HTML, JIRA, SASS
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3><i><a href="https://openmed.com" target="_blank">OpenMed.com</a></i></h3>
+<table>
+    <tbody>
+        <tr>
+            <td align="center"><b>ℹ️<br>Description</b></td>
+            <td>
+                Health care project that connect patients with doctors.
+                Meet your new personal medical assistant. We know that you value your time.
+                Our goal is to ensure that you can confidently confirm your appointments with the touch of a button.
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>🕑<br>Involvement Duration</b></td>
+            <td>
+                January 2014 – August 2014 (8 months)
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>👨<br>Role</b></td>
+            <td>
+                Javascript developer
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>💪<br>Responsibilities</b></td>
+            <td>
+                Development<br>
+                Tasks estimate<br>
+                Communication with customer<br>
+                Propose technologies
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>👪<br>Team Size</b></td>
+            <td>
+                15+ members
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>🚀<br>Tools And Technologies</b></td>
+            <td>
+                Javascript, AngularJS, JQuery, CSS, HTML, TeamCity, Nginx, Apache,
+                Yomen, SASS, Bower, Mocha, Jasmine, Git, Git flow, Protractor, Grunt,
+                Pivotal Tracker, REST
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3><i><a href="https://kony.com" target="_blank">kony.com</a></i></h3>
+<table>
+    <tbody>
+        <tr>
+            <td align="center"><b>ℹ️<br>Description</b></td>
+            <td>
+                Kony’s innovative technology and expertise creates exceptional experiences
+                through digital apps for the world’s leading companies.
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>🕑<br>Involvement Duration</b></td>
+            <td>
+                August 2013 – December 2013 (4 months)
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>👨<br>Role</b></td>
+            <td>
+                PHP/Javascript developer 
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>💪<br>Responsibilities</b></td>
+            <td>
+                Development<br>
+                Tasks estimate<br>
+                Code review<br>
+                Mentoring others<br>
+                Communication with customer
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>👪<br>Team Size</b></td>
+            <td>
+                20+ members
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>🚀<br>Tools And Technologies</b></td>
+            <td>
+                PHP, Lithium, Javascript, JQuery, AngularJS, PostgreSQL, CSS, Memcache,
+                HTML, TeamCity, Nginx, Apache, Git, Git Flow, REST, PhpUnit, DbUnit,
+                Composer, AWS, Phing
             </td>
         </tr>
     </tbody>
