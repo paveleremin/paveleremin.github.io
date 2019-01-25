@@ -16,8 +16,8 @@
                     <b>Email:</b> p.ereminnn🐶gmail.com
                 </p>
                 <p>
-                    Wanna mention that I have a lot of experience with PHP,
-                    Javascript and also <b>I have applications in the production</b>.
+                    Wanna mention that I have a lot of experience with Javascript,
+                    PHP and also <b>I have applications in the production</b>.
                     Currently I'm in ❤️ NodeJS, ReactJS and AngularJS,
                     so I have something to tell you about web development! 😄
                 </p>
