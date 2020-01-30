@@ -1,5 +1,5 @@
 <h3>Pavel Eremin</h3>
-<h4>Senior Software Engineer / Software Architect / Team Lead</h4>
+<h4>Principal Software Engineer / Software Architect / Team Lead</h4>
 
 <table>
     <tbody>
